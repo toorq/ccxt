@@ -1,4 +1,5 @@
 [2018-7-27] Added support for bitasiaex.com
+
 [2018-7-27] 添加了对比特亚洲的支持
 
 
