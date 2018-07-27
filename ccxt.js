@@ -170,6 +170,7 @@ const exchanges = {
     'yunbi':                   require ('./js/yunbi.js'),
     'zaif':                    require ('./js/zaif.js'),
     'zb':                      require ('./js/zb.js'),    
+    'bitasiaex':               require ('./js/bitasiaex.js'),    
 }
 
 //-----------------------------------------------------------------------------
